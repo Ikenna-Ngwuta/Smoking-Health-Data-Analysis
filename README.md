@@ -1,7 +1,7 @@
 # 🚬 Smoking Health Data Analysis
 
 
-https://github.com/Ikenna-Ngwuta/Smoking-Health-Data-Analysis/blob/main/smokers%20image.png
+https://github.com/Ikenna-Ngwuta/Smoking-Health-Data-Analysis/blob/main/smokers%20image.jfif
 
 ---
 
